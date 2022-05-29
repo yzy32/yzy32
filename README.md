@@ -4,7 +4,7 @@
 
 - 📫 Reach me at: **yzyang32@gmail.com**
 
-- ⚡ Fun fact: **I can be as focus as a container w/o exposing any port**
+- ⚡ Fun fact: **I can be as focus as container w/o exposing any port**
 
 
 <h3 align="left">Skills and Tools:</h3>
